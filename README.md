@@ -1,6 +1,12 @@
 # Identifiers
 
+## Purposes
+
+This project has been created to see the effect of the creation of dynamic identifiers in angular both in debug and production mode.
+
+## Project Generation
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.6.
+
 
 ## Development server
 
